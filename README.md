@@ -1,6 +1,6 @@
 ## Selamat Datang
 
-[nifqi.github.io &rarr;](http://nifqi.github.io/) 
+[nifqi.github.io](http://nifqi.github.io/) 
 
-It should look like this:
-`baseurl: ""`
+Ini adalah:
+`blog`
