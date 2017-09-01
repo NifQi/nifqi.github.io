@@ -4,7 +4,7 @@ header-img: img/home-bg.jpg
 email: mail@nifqi.com
 copyright_name: Your/Project/Corporate Name
 description: "Blog percobaan"
-baseurl: "/beranu"
+baseurl: "/"
 url: "http://nifqi.github.io"
 twitter_username: nifqi
 github_username:  nifqi
